@@ -6,6 +6,7 @@
 # profile
 build/
 sync/
+plum/
 
 # user db
 *.userdb
