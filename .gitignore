@@ -1,0 +1,52 @@
+
+# OS & IDE
+.DS_Store
+.idea
+
+# profile
+build/
+sync/
+
+# user db
+*.userdb
+
+.DS_Store
+**/.idea/
+.vscode/
+
+build/
+*.userdb/
+installation.yaml
+user.yaml
+*.custom.yaml
+
+others/script/scel2txt/out/*
+others/script/scel2txt/scel/*
+
+*private*
+
+rime_console
+rime_deployer
+rime_patch
+# Swap
+[._]*.s[a-v][a-z]
+!*.svg  # comment out if you don't need vector files
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# Session
+Session.vim
+Sessionx.vim
+
+# Temporary
+.netrwhist
+*~
+# Auto-generated tag files
+tags
+# Persistent undo
+[._]*.un~
+
+# End of https://mrkandreev.name/snippets/gitignore-generator/#Vim
+
