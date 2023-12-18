@@ -1,0 +1,6 @@
+# Rime table
+#@/db_name	custom_phrase.txt
+#@/db_type	tabledb
+#@/tick	69
+更新或者增加配置（注意不要有重复配置项）	updateconfig	100
+更新或者增加配置（注意不要有重复配置项）	uconf	100
